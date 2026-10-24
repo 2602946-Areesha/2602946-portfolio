@@ -1,0 +1,12 @@
+* ca2f08f Add portfolio footer
+| * 5e31461 Add project README
+|/  
+* a0e01c3 Update portfolio heading on main
+* 6702a2d Add skills section on develop
+* 675e6a1 Add log files to gitignore
+* d8248a3 Add CSS and JavaScript files
+* cb09d10 Remove about file
+* 68c11f9 Rename notes to about
+* fc84dc9 Add learning notes
+* b0ac8d8 Add personal introduction
+* 6264e34 Add initial portfolio page
